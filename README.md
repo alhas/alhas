@@ -19,8 +19,8 @@ class SoftwareDeveloper{
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=blue&color=6aa6f8) ![](https://img.shields.io/badge/Editor-Intellij-informational?style=flat&logo=intellijidea&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=yellow&color=yellow)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=blue&color=6aa6f8) ![](https://img.shields.io/badge/Editor-Intellij-informational?style=flat&logo=intellijidea&logoColor=black&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=brown&color=6aa6f8) ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=yellow&color=yellow)
 ![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=express&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=blue&color=6aa6f8) ![](https://img.shields.io/badge/Code-Selenium-informational?style=flat&logo=selenium&logoColor=green&color=6aa6f8) ![](https://img.shields.io/badge/Code-Spring-informational?style=flat&logo=spring&logoColor=green&color=green)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=black&color=darkgreen) ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=blue&color=6aa6f8) ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=green&color=green) ![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoftazure&logoColor=blue&color=6aa6f8)
 
