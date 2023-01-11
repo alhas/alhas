@@ -12,7 +12,7 @@ class SoftwareDeveloper{
     }
 }   //Hello I'm Bahtiyar, I'm a student in software development, and technology enthusiastic.
     //I have three years experience in IT.
-    const theDeveloper = new SoftwareDeveloper('Bahtiyar Ali ALHAS','Software Developer');
+    const theDeveloper = new SoftwareDeveloper('Bahtiyar Ali ALHAS','Software Test Engineer');
     console.log(theDeveloper.getDetails())
 ```
 
