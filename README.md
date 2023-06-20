@@ -10,8 +10,8 @@ class SoftwareDeveloper{
      getDetails(){
         return (`The name of the ${this.role} ${this.name}`)
     }
-}   //Hello I'm Bahtiyar, I'm a student in software development, and technology enthusiastic.
-    //I have three years experience in IT.
+}   //Hello I'm Ali, I'm a student in software development, and technology enthusiastic.
+    //I have five years of experience in IT.
     const theDeveloper = new SoftwareDeveloper('Bahtiyar Ali ALHAS','Software Test Engineer');
     console.log(theDeveloper.getDetails())
 ```
